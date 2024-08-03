@@ -1,0 +1,198 @@
+{
+  "day": {
+    "fibres": {
+      "femme": 25,
+      "homme": 25
+    },
+    "vitamineA": {
+      "femme": 490,
+      "homme": 570
+    },
+    "vitamineB1": {
+      "femme": 0.7533,
+      "homme": 1.0881
+    },
+    "vitamineB2": {
+      "femme": 1.3,
+      "homme": 1.3
+    },
+    "vitamineB3": {
+      "femme": 12.0528,
+      "homme": 17.4096
+    },
+    "vitamineB5": {
+      "femme": 5,
+      "homme": 5
+    },
+    "vitamineB6": {
+      "femme": 1.3,
+      "homme": 1.5
+    },
+    "vitamineB9": {
+      "femme": 330,
+      "homme": 330
+    },
+    "vitamineB12": {
+      "femme": 4,
+      "homme": 4
+    },
+    "vitamineC": {
+      "femme": 80,
+      "homme": 90
+    },
+    "vitamineD": {
+      "femme": 15,
+      "homme": 15
+    },
+    "vitamineE": {
+      "femme": 11,
+      "homme": 13
+    },
+    "vitamineK1": {
+      "femme": 70,
+      "homme": 70
+    },
+    "potassium": {
+      "femme": 3500,
+      "homme": 3500
+    },
+    "magnesium": {
+      "femme": 300,
+      "homme": 380
+    },
+    "calcium": {
+      "femme": 750,
+      "homme": 750
+    },
+    "phosphore": {
+      "femme": 550,
+      "homme": 550
+    },
+    "zinc": {
+      "femme": 9.9,
+      "homme": 11.8
+    },
+    "selenium": {
+      "femme": 70,
+      "homme": 70
+    },
+    "sodium": {
+      "femme": 2000,
+      "homme": 2000
+    },
+    "cuivre": {
+      "femme": 1.3,
+      "homme": 1.6
+    },
+    "fer": {
+      "femme": 6,
+      "homme": 6
+    },
+    "manganese": {
+      "femme": 3,
+      "homme": 3
+    },
+    "iode": {
+      "femme": 150,
+      "homme": 150
+    }
+  },
+  "week": {
+    "fibres": {
+      "femme": 175,
+      "homme": 175
+    },
+    "vitamineA": {
+      "femme": 3430,
+      "homme": 3990
+    },
+    "vitamineB1": {
+      "femme": 5.2731,
+      "homme": 7.6167
+    },
+    "vitamineB2": {
+      "femme": 9.1,
+      "homme": 9.1
+    },
+    "vitamineB3": {
+      "femme": 84.3696,
+      "homme": 121.8672
+    },
+    "vitamineB5": {
+      "femme": 35,
+      "homme": 35
+    },
+    "vitamineB6": {
+      "femme": 9.1,
+      "homme": 10.5
+    },
+    "vitamineB9": {
+      "femme": 2310,
+      "homme": 2310
+    },
+    "vitamineB12": {
+      "femme": 28,
+      "homme": 28
+    },
+    "vitamineC": {
+      "femme": 560,
+      "homme": 630
+    },
+    "vitamineD": {
+      "femme": 105,
+      "homme": 105
+    },
+    "vitamineE": {
+      "femme": 77,
+      "homme": 91
+    },
+    "vitamineK1": {
+      "femme": 490,
+      "homme": 490
+    },
+    "potassium": {
+      "femme": 24500,
+      "homme": 24500
+    },
+    "magnesium": {
+      "femme": 2100,
+      "homme": 2660
+    },
+    "calcium": {
+      "femme": 5250,
+      "homme": 5250
+    },
+    "phosphore": {
+      "femme": 3850,
+      "homme": 3850
+    },
+    "zinc": {
+      "femme": 69.3,
+      "homme": 82.6
+    },
+    "selenium": {
+      "femme": 490,
+      "homme": 490
+    },
+    "sodium": {
+      "femme": 14000,
+      "homme": 14000
+    },
+    "cuivre": {
+      "femme": 9.1,
+      "homme": 11.2
+    },
+    "fer": {
+      "femme": 42,
+      "homme": 42
+    },
+    "manganese": {
+      "femme": 21,
+      "homme": 21
+    },
+    "iode": {
+      "femme": 1050,
+      "homme": 1050
+    }
+  }
+}

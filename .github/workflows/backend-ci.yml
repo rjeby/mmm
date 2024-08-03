@@ -1,0 +1,51 @@
+name: Backend CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  backend:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository code
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # Step 2: Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # Step 3: Install Python dependencies using Poetry
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install poetry
+          cd backend
+          poetry install
+
+      # Step 4: Run Ruff code quality scan
+      - name: Run Ruff code quality scan
+        working-directory: backend
+        continue-on-error: true
+        run: poetry run task code_quality_scan
+
+      # Step 5: Run Bandit security scan
+      - name: Run Bandit security scan
+        working-directory: backend
+        continue-on-error: true
+        run: poetry run task security_scan
+      
+       # Step 6: Run tests with pytest and generate coverage report
+      - name: Run tests and coverage
+        working-directory: backend
+        continue-on-error: true
+        run: |
+          poetry run task coverage

@@ -1,0 +1,28 @@
+Identifiant,NomFamEncas,Viande,Poisson,Ig(bas:55 ou moins; moyen: 56-60 élevé: >ou=70),MacroN,Végé,sansGluten,cétogène,DurPrep,SaisDeb,SaisFin,NumIng1,QteIng1,UniteIng1,NumIng2,QteIng2,UniteIng2,NumIng3,QteIng3,UniteIng3,NumIng4,QteIng4,UniteIng4,NumIng5,QteIng5,UniteIng5,NumIng6,QteIng6,UniteIng6,NumIng7,QteIng7,UniteIng7,NumIng8,QteIng8,UniteIng8,NumIng9,QteIng9,UniteIng9,NumIng10,QteIng10,UniteIng10,NumIng11,QteIng11,UniteIng11,NumIng12,QteIng12,UniteIng12,NumIng13,QteIng13,UniteIng13,NumIng14,QteIng14,UniteIng14,NumIng15,QteIng15,UniteIng15,Prix,Diff,Medi,Sanssel,Porc
+1,1 Pomme,non,non,bas,G,oui,non,non,0,septembre,avril,13039,200,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+2,1 Poire,non,non,bas,G,oui,non,non,0,septembre,décembre,13037,170,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+3,Fraises,non,non,bas,G,oui,non,non,0,avril,juin,13014,150,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+4,Framboises,non,non,bas,G,oui,non,non,0,juin,juillet,13015,150,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+5,1 Banane,non,non,élevé,G,oui,non,non,0,janvier,décembre,13005,150,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+6,Pêche,non,non,bas,G,oui,non,non,0,juin,septembre,13118,150,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+7,2 Abricots,non,non,bas,G,oui,non,non,0,juin,septembre,13000,80,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+8,1 Kiwi,non,non,moyen,G,oui,non,non,0,novembre,mai,13021,80,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+9,Raisins,non,non,élevé,G,oui,non,non,0,septembre,novembre,13112,200,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+10,Prunes,non,non,bas,G,oui,non,non,0,juillet,septembre,13100,150,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+11,Cerises,non,non,bas,G,oui,non,non,0,mars,juin,13008,150,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+12,1 Orange,non,non,bas,G,oui,non,non,0,décembre,mars,13034,150,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+13,2 mandarines,non,non,bas,G,oui,non,non,0,novembre,mars,13024,200,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+14,2 clémentines,non,non,bas,G,oui,non,non,0,novembre,mars,13024,200,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+15,1/2 Pamplemousse,non,non,bas,G,oui,non,non,0,décembre,mars,13040,200,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+16,Tranches Ananas,non,non,élevé,G,oui,non,non,0,janvier,décembre,13002,150,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+17,Figues,non,non,bas,G,oui,non,non,0,juillet,octobre,13012,150,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+18,Tranche de pastèque,non,non,élevé,G,oui,non,non,0,juillet,août,13036,200,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+19,1/4 Melon,non,non,élevé,G,oui,non,non,0,juillet,août,13430,250,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+20,Noix,non,non,bas,P-L-G,oui,non,non,0,janvier,décembre,15005,20,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+21,Amandes,non,non,bas,P-L-G,oui,non,non,0,janvier,décembre,15000,20,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+22,Noisettes,non,non,bas,P-L-G,oui,non,non,0,janvier,décembre,15004,20,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+23,Graines de tournesol,non,non,bas,P-L-G,oui,non,non,0,janvier,décembre,15011,20,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+24,Graines de courge,non,non,bas,P-L,oui,non,non,0,janvier,décembre,15028,20,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+25,Noix de cajou,non,non,bas,P-L-G,oui,non,non,0,janvier,décembre,15055,20,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+26,Noix de macadamia,non,non,bas,P-L,oui,non,non,0,janvier,décembre,15027,20,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,très facile,oui,<7g,non
+27,Noix de Pécan,non,non,bas,P-L,oui,non,non,0,janvier,décembre,15026,20,g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bon marché,facile,oui,<7g,non
